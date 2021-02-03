@@ -1,0 +1,70 @@
+header nav ul li a {
+    background-color: inherit;
+    outline: none;
+    float: left;
+    
+    font-size: 17px;
+    color: black;
+    
+    }
+    
+    #anime {
+    
+        background-color:rgb(73, 5, 5) ;
+        color: whitesmoke;
+        font-size: 20px;
+        padding : 20px;
+        margin: 20px ;
+    
+    }
+    
+    #movie {
+    
+        background-color:rgb(73, 5, 5) ;
+        color: whitesmoke;
+        font-size: 20px;
+       
+        padding : 20px;
+        margin:20px ;
+    }
+    
+    #videogames {
+    
+    
+        background-color:rgb(73, 5, 5) ;
+        color: whitesmoke;
+        font-size: 20px;
+    
+        padding : 20px;
+        margin: 20px ;}
+    
+        #map {
+    
+    padding : 15px;
+    
+    
+        }
+    
+    #phone {
+    
+        padding:15px;
+    }
+    
+    
+    header nav ul li  { display: inline-block;
+    
+        padding : 10px;
+    
+    
+    
+    }
+    footer div ul li {
+    
+        background-color: bisque;
+    
+        display: inline-block;
+        padding : 20Px;
+    
+        margin: 20px;
+        border: 20px ;
+    }

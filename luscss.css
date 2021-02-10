@@ -68,3 +68,42 @@ header nav ul li a {
         margin: 20px;
         border: 20px ;
     }
+
+    header form p {
+margin: 20px;
+float:right;
+
+padding: 5px;
+
+
+
+    }
+    #feadbackcolor {
+
+color:lightslategray;
+
+    }
+
+    footer form  {
+float :right;
+   
+    }
+    .text {
+
+font-size: 17px;
+font-family: Arial, Helvetica, sans-serif;
+color: mediumblue;
+padding:2px;
+    }
+    #search {
+
+float:inline-start;
+
+    }
+
+    #pwsun {
+
+        background-color: rgb(27, 27, 27);
+
+    
+    }
